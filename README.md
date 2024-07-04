@@ -22,7 +22,7 @@ The Stock Forecast App is a web application that predicts future stock prices us
 - **Historical Data**: View historical stock prices with interactive plots.
 - **Future Prediction**: Forecast future stock prices using the Prophet model.
 - **Interactive Components**: Explore different components of the forecast including trend, seasonality, and holidays.
-- **Customizable Forecast Horizon**: Set the prediction period up to 5 years.
+- **Customizable Forecast Horizon**: Set the prediction period up to 4 years.
 
 ## Installation
 
