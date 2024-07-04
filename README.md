@@ -4,7 +4,7 @@ Certainly! Below is a sample README file for your stock prediction project. You 
 
 # Stock Forecast App
 
-![Stock Forecast App](path_to_image.png)
+![Stock Forecast App](forecast_stock_prices.jpg)
 
 ## Table of Contents
 
