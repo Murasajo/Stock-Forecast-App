@@ -1,6 +1,3 @@
-Certainly! Below is a sample README file for your stock prediction project. You can adjust it according to your specific requirements and preferences.
-
----
 
 # Stock Forecast App
 
